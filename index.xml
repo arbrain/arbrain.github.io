@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arbrain</title>
+    <link>http://arbrain.github.io/</link>
+    <description>Recent content on Arbrain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2017 21:38:39 +0530</lastBuildDate>
+    
+	<atom:link href="http://arbrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>http://arbrain.github.io/post/intro/</link>
+      <pubDate>Wed, 14 Jun 2017 21:38:39 +0530</pubDate>
+      
+      <guid>http://arbrain.github.io/post/intro/</guid>
+      <description>ABrain Developing a generic framework for combining graphdb, full text search and machine learning.
+The Idea is to develop a framework from where its easy to integrate all above modules, something like brain architecture design can me made easy.
+Adding some points to ponder upon while developing initial prototype Functionalities that I am thinking of at this point. (Will add some more as project proceeds further) Basically some actions in brain are voluntary and some are involuntary.</description>
+    </item>
+    
+  </channel>
+</rss>
